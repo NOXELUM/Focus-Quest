@@ -147,3 +147,6 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Focus Quest: dữ liệu SQLite cục bộ
+server/data.sqlite*
